@@ -22,7 +22,7 @@
         "material-ui-search-bar": "^0.4.2",
         "mdbreact": "^4.15.0",
         "mongodb": "^3.2.7",
-        "mongoose": "^5.6.4",
+        "mongoose": "^5.7.5",
         "morgan": "^1.9.1",
         "nodemailer": "^6.3.0",
         "prop-types": "^15.7.2",
